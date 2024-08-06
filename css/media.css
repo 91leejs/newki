@@ -32,6 +32,10 @@
         display: none;
     }
 
+    .fix{
+        display: none;
+    }
+
     .m_main{}
     .m_main li{}
     .m_main li a{}
